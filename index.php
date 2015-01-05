@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-    <title>::Welcome to Firemoon::</title>
+    <title>::Welcome to Firemoon Studios::</title>
     
     <meta charset="utf-8">
    
